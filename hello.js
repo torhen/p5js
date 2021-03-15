@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+require("p5/global");
 function setup() {
     createCanvas(500, 400);
 }
